@@ -100,7 +100,7 @@ export const projects: Project[] = [
       "A full-stack expense splitting application that allows users to create groups, add expenses, split costs, and track balances between members.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: expenseImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
   {
