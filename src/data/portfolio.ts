@@ -5,6 +5,7 @@
 import expenseImg from "@/assets/project-expense.jpg";
 import weatherImg from "@/assets/project-weather.jpg";
 import authImg from "@/assets/project-auth.jpg";
+import resumeAsset from "@/assets/resume.pdf.asset.json";
 
 export const profile = {
   name: "Prabhpreet Singh",
