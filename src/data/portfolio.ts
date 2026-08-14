@@ -118,7 +118,7 @@ export const projects: Project[] = [
       "A secure authentication system implementing user registration, login, password hashing, JWT authentication, protected routes, and authorization.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: authImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
 ];
