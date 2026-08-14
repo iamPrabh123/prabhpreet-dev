@@ -16,7 +16,7 @@ export const profile = {
   heroHeadline: "I build modern web applications and scalable backend systems.",
   heroSupport:
     "I'm a BCA student focused on backend development, full-stack engineering, DSA, and system design. I enjoy turning ideas into practical, scalable software.",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: resumeAsset.url,
   email: "mostlyypositive@gmail.com",
   github: "https://github.com/iamPrabh123",
   linkedin: "https://www.linkedin.com/in/prabhpreet-singh-764726340",
