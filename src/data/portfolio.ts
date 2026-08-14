@@ -16,9 +16,9 @@ export const profile = {
   heroSupport:
     "I'm a BCA student focused on backend development, full-stack engineering, DSA, and system design. I enjoy turning ideas into practical, scalable software.",
   resumeUrl: "/resume.pdf",
-  email: "prabhpreet@example.com",
-  github: "https://github.com/prabhpreet",
-  linkedin: "https://linkedin.com/in/prabhpreet",
+  email: "mostlyypositive@gmail.com",
+  github: "https://github.com/iamPrabh123",
+  linkedin: "https://www.linkedin.com/in/prabhpreet-singh-764726340",
   location: "New Delhi, India",
 };
 
@@ -100,7 +100,7 @@ export const projects: Project[] = [
       "A full-stack expense splitting application that allows users to create groups, add expenses, split costs, and track balances between members.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: expenseImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
   {
@@ -109,7 +109,7 @@ export const projects: Project[] = [
       "A responsive weather application that retrieves real-time weather information using a weather API and presents it through a clean user interface.",
     tech: ["HTML", "CSS", "JavaScript", "Weather API"],
     image: weatherImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
   {
@@ -118,7 +118,7 @@ export const projects: Project[] = [
       "A secure authentication system implementing user registration, login, password hashing, JWT authentication, protected routes, and authorization.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: authImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
 ];
