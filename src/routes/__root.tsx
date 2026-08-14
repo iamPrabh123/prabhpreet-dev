@@ -83,11 +83,17 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Portfolio of Prabhpreet Singh, BCA student and aspiring software developer focused on backend engineering, full-stack development, DSA and system design.",
+          "Portfolio of Prabhpreet Singh, BCA student and software developer building scalable backend systems and full-stack web applications with Java, Spring Boot, Node.js and React.",
       },
       { name: "author", content: "Prabhpreet Singh" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Prabhpreet Singh — Backend & Full-Stack Developer" },
+      { name: "twitter:title", content: "Prabhpreet Singh — Backend & Full-Stack Developer" },
+      { property: "og:description", content: "Portfolio of Prabhpreet Singh, BCA student and software developer building scalable backend systems and full-stack web applications with Java, Spring Boot, Node.js and React." },
+      { name: "twitter:description", content: "Portfolio of Prabhpreet Singh, BCA student and software developer building scalable backend systems and full-stack web applications with Java, Spring Boot, Node.js and React." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/0a29c690-2b43-44e6-84db-a79322ae427b" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/0a29c690-2b43-44e6-84db-a79322ae427b" },
     ],
     links: [
       {
