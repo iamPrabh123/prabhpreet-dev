@@ -109,7 +109,7 @@ export const projects: Project[] = [
       "A responsive weather application that retrieves real-time weather information using a weather API and presents it through a clean user interface.",
     tech: ["HTML", "CSS", "JavaScript", "Weather API"],
     image: weatherImg,
-    github: "https://github.com/prabhpreet",
+    github: "https://github.com/iamPrabh123",
     demo: "#",
   },
   {
