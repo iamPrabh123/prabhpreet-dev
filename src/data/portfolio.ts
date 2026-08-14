@@ -16,9 +16,9 @@ export const profile = {
   heroSupport:
     "I'm a BCA student focused on backend development, full-stack engineering, DSA, and system design. I enjoy turning ideas into practical, scalable software.",
   resumeUrl: "/resume.pdf",
-  email: "prabhpreet@example.com",
-  github: "https://github.com/prabhpreet",
-  linkedin: "https://linkedin.com/in/prabhpreet",
+  email: "mostlyypositive@gmail.com",
+  github: "https://github.com/iamPrabh123",
+  linkedin: "https://www.linkedin.com/in/prabhpreet-singh-764726340",
   location: "New Delhi, India",
 };
 
