@@ -5,8 +5,7 @@
 import expenseImg from "@/assets/project-expense.jpg";
 import weatherImg from "@/assets/project-weather.jpg";
 import authImg from "@/assets/project-auth.jpg";
-import resumeAsset from "@/assets/resume.pdf.asset.json";
-
+import resumePdf from "@/assets/Prabhpreet_Resume_New.pdf";
 export const profile = {
   name: "Prabhpreet Singh",
   monogram: "PS",
@@ -16,7 +15,7 @@ export const profile = {
   heroHeadline: "I build modern web applications and scalable backend systems.",
   heroSupport:
     "I'm a BCA student focused on backend development, full-stack engineering, DSA, and system design. I enjoy turning ideas into practical, scalable software.",
-  resumeUrl: resumeAsset.url,
+  resumeUrl: resumePdf,
   email: "mostlyypositive@gmail.com",
   github: "https://github.com/iamPrabh123",
   linkedin: "https://www.linkedin.com/in/prabhpreet-singh-764726340",
