@@ -5,7 +5,7 @@
 import expenseImg from "@/assets/project-expense.jpg";
 import weatherImg from "@/assets/project-weather.jpg";
 import authImg from "@/assets/project-auth.jpg";
-import resumePdf from "@/assets/Prabhpreet_Resume_New.pdf";
+import resumePdf from "@/assets/Prabhpreet_Singh_Resume.pdf";
 export const profile = {
   name: "Prabhpreet Singh",
   monogram: "PS",
